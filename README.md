@@ -1,4 +1,4 @@
-# :package_name
+# Laravel Line Bot
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -30,7 +30,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require :vendor/:package_name
+$ composer require fei77/line-bot
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ If you discover any security related issues, please email :author_email instead 
 
 ## Credits
 
-- [:author_name][link-author]
+- [Fei77][link-author]
 - [All Contributors][link-contributors]
 
 ## License
