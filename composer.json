@@ -1,7 +1,7 @@
 {
     "name": "fei77/line-bot",
     "type": "library",
-    "description": ":package_description",
+    "description": "Laravel Line Bot package",
     "keywords": [
         "Fei77",
         "LineBot"
