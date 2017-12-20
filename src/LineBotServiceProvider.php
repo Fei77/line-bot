@@ -27,6 +27,6 @@ class LineBotServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->alias(LineBot::class, 'Line');
+        $this->app->alias(Line::class, 'Line');
     }
 }
