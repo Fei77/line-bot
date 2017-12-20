@@ -2,6 +2,11 @@
 
 namespace Fei77\LineBot;
 
+use LINE\LINEBot;
+use LINE\LINEBot\HTTPClient\CurlHTTPClient;
+use LINE\LINEBot\MessageBuilder;
+use LINE\LINEBot\MessageBuilder\TextMessageBuilder;
+
 class LineBot
 {
     /**
@@ -9,7 +14,8 @@ class LineBot
      */
     public function __construct()
     {
-        // constructor body
+        $this->client = new CurlHTTPClient(config('line-bot.line_token'));
+        $this->bot = new LINEBot($this->client, ['channelSecret' => config('line-bot.line_secret')]);
     }
 
     /**
