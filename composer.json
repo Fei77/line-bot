@@ -25,7 +25,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Fei77\\LineBot\\LineServiceProvider"
+                "Fei77\\LineBot\\LineBotServiceProvider"
             ],
             "aliases": {
                 "LineBot": "Fei77\\LineBot\\Line"
