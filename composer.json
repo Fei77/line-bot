@@ -1,16 +1,16 @@
 {
-    "name": "Fei77/line-bot",
+    "name": "fei77/line-bot",
     "type": "library",
     "description": ":package_description",
     "keywords": [
         "Fei77",
         "LineBot"
     ],
-    "homepage": "https://github.com/Fei77/line-bot",
+    "homepage": "https://github.com/fei77/line-bot",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
+            "name": ":Fei77",
             "email": ":author_email",
             "homepage": ":author_website",
             "role": "Developer"
