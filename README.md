@@ -74,17 +74,17 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/:vendor/:package_name.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Fei77/LineBot.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/:vendor/:package_name/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/:vendor/:package_name.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/:vendor/:package_name.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/:vendor/:package_name.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Fei77/LineBot/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Fei77/LineBot.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Fei77/LineBot.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Fei77/LineBot.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/:vendor/:package_name
-[link-travis]: https://travis-ci.org/:vendor/:package_name
-[link-scrutinizer]: https://scrutinizer-ci.com/g/:vendor/:package_name/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/:vendor/:package_name
-[link-downloads]: https://packagist.org/packages/:vendor/:package_name
-[link-author]: https://github.com/:author_username
+[link-packagist]: https://packagist.org/packages/Fei77/LineBot
+[link-travis]: https://travis-ci.org/Fei77/LineBot
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Fei77/LineBot/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Fei77/LineBot
+[link-downloads]: https://packagist.org/packages/Fei77/LineBot
+[link-author]: https://github.com/Fei77
 [link-contributors]: ../../contributors
